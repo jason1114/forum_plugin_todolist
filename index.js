@@ -2,7 +2,7 @@
 (function() {
   define([], function() {
     return {
-      name: 'todolist'
+      name: 'todolist',
       showName: 'Todo',
       icon: "icon-list",
       models: [
